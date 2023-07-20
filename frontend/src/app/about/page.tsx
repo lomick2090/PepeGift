@@ -2,45 +2,42 @@ import Layout from "../components/Layout";
 
 export default function About() {
     return (
-        <Layout>
-        <main className='p-20'>
-          <div className='text-[white]'>
-              <h3 className="text-lg font-bold ml-5">Welcome to CryptoSwapPro: Your Gateway to Universal Crosschain Swaps and Asset Security!</h3>
-  
-              Are you tired of being restricted to a single blockchain network for your cryptocurrency swaps? Say hello to CryptoSwapPro – the revolutionary crypto app that empowers you to conduct universal crosschain swaps while ensuring the utmost safety of your assets on the chain of your choice!
-  
-              Discover the Future of Crypto Swapping
-  
-              Gone are the days of limited options and high risks when swapping cryptocurrencies. CryptoSwapPro is here to revolutionize the way you trade your digital assets. Our cutting-edge technology allows you to seamlessly exchange coins and tokens across various blockchain networks. Whether you're an experienced trader or a newcomer to the world of crypto, our user-friendly interface ensures a smooth and effortless swapping experience.
-  
-            <h3 className='text-lg font-bold mt-5 ml-5'>Why Choose CryptoSwapPro?</h3>
-  
+      <Layout>
+        <div className=' text-[white] flex flex-col items-center pb-8'>
+          <div className="w-[80vw]">
+            <p className="font-bold text-4xl text-center">PepeGift - Shitcoining with a Purpose</p>
+            <br />
+            <span className="ml-4">We are committed to </span>revolutionizing the cryptocurrency space by creating an impactful and purpose-driven digital asset. Our mission is simple yet powerful: to bridge the gap between financial prosperity and social welfare. With every transaction made through our platform, a portion of the proceeds goes directly to support the esteemed organization <a href="https://GiveWell.org/">GiveWell.org</a>.
+            <br />
+            <br />
+            <span className="font-bold ml-4">What is GiveWell.org?</span>
+            <br />
+            <span className="ml-4">GiveWell.org</span> is a distinguished non-profit organization dedicated to finding and evaluating outstanding giving opportunities. Their rigorous research and analysis identify charities and interventions that are most effective at saving and improving lives in low-income countries. By partnering with GiveWell.org, ShitCoin aims to channel funds towards initiatives that have a proven track record of making a significant and tangible difference in the lives of those in need.
+            <br />
+            <br />
+            <span className="font-bold ml-4">GiveWell's Impact:</span>
+            <br />
             <ul>
-  
-              <li><span className="font-bold">1.</span> Universal Crosschain Swaps: Our platform is designed to break the barriers of traditional crypto exchanges. Unlock a vast universe of possibilities by conducting swaps across different blockchains, opening the door to countless trading opportunities.</li>
-  
-              <li><span className="font-bold">2.</span> Maximum Asset Security: We understand the value you place on your digital assets. With CryptoSwapPro, you're in complete control. Your assets stay safe on the chain of your choice throughout the swapping process, eliminating any security concerns.</li>
-  
-              <li><span className="font-bold">3.</span> Lightning-Fast Transactions: Time is money, and we value yours. Experience rapid transactions with our advanced blockchain technology, ensuring you never miss out on a trading opportunity due to sluggish networks.</li>
-  
-              <li><span className="font-bold">4.</span> User-Friendly Interface: No more navigating through complex systems. Our intuitive interface is tailored to cater to users of all levels, making crypto swapping accessible to everyone.</li>
-  
-              <li><span className="font-bold">5.</span> Transparent and Trustworthy: At CryptoSwapPro, transparency is our foundation. Rest assured, you'll always have full visibility of your transactions, with real-time updates and clear, detailed information.</li>
-  
-              <li><span className="font-bold">6.</span> 24/7 Customer Support: Have a question or need assistance? Our dedicated support team is available round-the-clock to address your queries and ensure a smooth experience on our platform.</li>
-  
+              <li>
+                <span className="font-bold ml-4">Data-Driven Approach:</span> GiveWell.org employs a data-centric methodology to identify charities with the highest potential for impact. Their thorough evaluations ensure that each supported organization demonstrates a compelling cost-effectiveness ratio.
+              </li>
+              <br />
+              <li><span className="font-bold ml-4">Life-Saving Interventions:</span> GiveWell.org focuses on supporting interventions that directly save lives and alleviate suffering in the most vulnerable communities around the world. Their efforts prioritize health, education, nutrition, and essential humanitarian aid.</li>
+              <br />
+              <li><span className="font-bold ml-4">Transparency and Accountability:</span> GiveWell.org maintains a commitment to transparency and accountability. They provide detailed reports on their findings, financials, and the impact of the charities they endorse, ensuring donors have confidence in their contributions.</li>
+              <br />
+              <li>
+              <span className="font-bold ml-4">Continuous Research:</span> GiveWell.org continuously evaluates and re-evaluates charitable organizations to ensure that resources are allocated to the most effective and efficient initiatives. This dedication to research enables ShitCoin to make a lasting impact through ongoing support.
+              </li>
             </ul>
-  
-            <p className="mt-5">
-              
-              Join the Future of Crypto Swapping Today!
-              
-              Don't let outdated exchanges hold you back. Embrace the power of universal crosschain swaps and safeguard your assets with CryptoSwapPro. Join our ever-growing community of crypto enthusiasts and experience a new era of trading possibilities.
-              
-              Ready to take the leap? Sign up now and unlock the potential of universal crosschain swaps like never before!
-            </p>
+            <br />
+            <br />
+            <span className="font-bold ml-4">Together Towards Change:</span>
+            <br />
+            <span className="ml-4">By aligning PepeGift</span>'s vision with GiveWell.org's exemplary work, we empower our community to create a positive and lasting change in the lives of those less fortunate. Embracing our motto, "shitcoining with a purpose," every participant in the ShitCoin ecosystem becomes an agent of change, driving real-world progress and inspiring others to do the same.
+            Join us on this transformative journey as we leverage the power of cryptocurrency to contribute to noble causes and build a brighter, more equitable world. Together, we make every transaction matter and redefine the potential of crypto for a greater purpose. Together, we create a better future.
           </div>
-        </main>
+        </div>
       </Layout>
     )
 }
