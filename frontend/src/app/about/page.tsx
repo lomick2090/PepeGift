@@ -5,14 +5,14 @@ export default function About() {
       <Layout>
         <div className=' text-[white] flex flex-col items-center pb-8'>
           <div className="w-[80vw]">
-            <p className="font-bold text-4xl text-center">PepeGift - Shitcoining with a Purpose</p>
+            <p className="font-bold text-4xl text-center">Crypto For Good - Shitcoining with a Purpose</p>
             <br />
             <span className="ml-4">We are committed to </span>revolutionizing the cryptocurrency space by creating an impactful and purpose-driven digital asset. Our mission is simple yet powerful: to bridge the gap between financial prosperity and social welfare. With every transaction made through our platform, a portion of the proceeds goes directly to support the esteemed organization <a href="https://GiveWell.org/">GiveWell.org</a>.
             <br />
             <br />
             <span className="font-bold ml-4">What is GiveWell.org?</span>
             <br />
-            <span className="ml-4">GiveWell.org</span> is a distinguished non-profit organization dedicated to finding and evaluating outstanding giving opportunities. Their rigorous research and analysis identify charities and interventions that are most effective at saving and improving lives in low-income countries. By partnering with GiveWell.org, ShitCoin aims to channel funds towards initiatives that have a proven track record of making a significant and tangible difference in the lives of those in need.
+            <span className="ml-4">GiveWell.org</span> is a distinguished non-profit organization dedicated to finding and evaluating outstanding giving opportunities. Their rigorous research and analysis identify charities and interventions that are most effective at saving and improving lives in low-income countries. By partnering with GiveWell.org, Crypt For Good aims to channel funds towards initiatives that have a proven track record of making a significant and tangible difference in the lives of those in need.
             <br />
             <br />
             <span className="font-bold ml-4">GiveWell's Impact:</span>
@@ -34,7 +34,7 @@ export default function About() {
             <br />
             <span className="font-bold ml-4">Together Towards Change:</span>
             <br />
-            <span className="ml-4">By aligning PepeGift</span>'s vision with GiveWell.org's exemplary work, we empower our community to create a positive and lasting change in the lives of those less fortunate. Embracing our motto, "shitcoining with a purpose," every participant in the PepeGift ecosystem becomes an agent of change, driving real-world progress and inspiring others to do the same.
+            <span className="ml-4">By aligning Crypto For Good</span>'s vision with GiveWell.org's exemplary work, we empower our community to create a positive and lasting change in the lives of those less fortunate. Embracing our motto, "Shitcoining with a Purpose," every participant in the Crypto For Good ecosystem becomes an agent of change, driving real-world progress and inspiring others to do the same.
             Join us on this transformative journey as we leverage the power of cryptocurrency to contribute to noble causes and build a brighter, more equitable world. Together, we make every transaction matter and redefine the potential of crypto for a greater purpose. Together, we create a better future.
           </div>
         </div>

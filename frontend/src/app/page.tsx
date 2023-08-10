@@ -7,7 +7,7 @@ export default function Home() {
         <img src="./Pepegift.png" className='w-96' />
         <div className="text-[white] w-[80vw]">
           
-          <span className="font-bold ml-4">Why PepeGift?</span>
+          <span className="font-bold ml-4">Why Crypto For Good?</span>
 
           <br />
           
@@ -29,7 +29,7 @@ export default function Home() {
 
           <br />
 
-          Don't miss out on the opportunity to be part of the next-gen crypto movement. Let's embark on this transformative journey together, empowering ourselves and the world. Welcome to PepeGift: <span className="font-bold">Shitcoining with a Purpose!</span>
+          Don't miss out on the opportunity to be part of the next-gen crypto movement. Let's embark on this transformative journey together, empowering ourselves and the world. Welcome to Crypto For Good: <span className="font-bold">Shitcoining with a Purpose!</span>
         </div>
 
       </div>

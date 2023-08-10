@@ -8,11 +8,10 @@ export default function WalletConnect(props: any) {
     }
 
     return (
-        <div className={'walletconnect'}>
-            <button onClick={props.getAccount}>
+        <div>
+            <button onClick={props.getAccount} className='bg-[white] rounded-lg p-[2px] m-[1px] font-bold hover:pointer-events-auto'>
                 {props.walletInfo.address ? ReadWallet() :  'Connect Wallet'}
             </button>
-
         </div>
     )
 }
