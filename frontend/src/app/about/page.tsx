@@ -34,7 +34,7 @@ export default function About() {
             <br />
             <span className="font-bold ml-4">Together Towards Change:</span>
             <br />
-            <span className="ml-4">By aligning PepeGift</span>'s vision with GiveWell.org's exemplary work, we empower our community to create a positive and lasting change in the lives of those less fortunate. Embracing our motto, "shitcoining with a purpose," every participant in the ShitCoin ecosystem becomes an agent of change, driving real-world progress and inspiring others to do the same.
+            <span className="ml-4">By aligning PepeGift</span>'s vision with GiveWell.org's exemplary work, we empower our community to create a positive and lasting change in the lives of those less fortunate. Embracing our motto, "shitcoining with a purpose," every participant in the PepeGift ecosystem becomes an agent of change, driving real-world progress and inspiring others to do the same.
             Join us on this transformative journey as we leverage the power of cryptocurrency to contribute to noble causes and build a brighter, more equitable world. Together, we make every transaction matter and redefine the potential of crypto for a greater purpose. Together, we create a better future.
           </div>
         </div>
